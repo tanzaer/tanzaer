@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tanzaer
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: Tanza
+- ⚡ Fun fact: older person to learn Python
